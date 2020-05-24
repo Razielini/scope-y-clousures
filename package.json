@@ -1,0 +1,16 @@
+{
+  "name": "scope-y-clousures",
+  "version": "1.0.0",
+  "description": "Ejercicios de Scope y Clousures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scope",
+    "Clousures",
+    "Javascript"
+  ],
+  "author": "Razielini",
+  "license": "ISC"
+}
